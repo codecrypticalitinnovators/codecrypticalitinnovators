@@ -27,11 +27,11 @@ We turn concepts into scalable apps, smart websites, and powerful business tools
 
 ## 💼 Our Services
 
-- **💻 Web Development** — React, Next.js, MERN, Custom Websites  
-- **📱 Mobile App Development** — Flutter, Android, iOS  
-- **🎨 UI/UX Design** — Modern, user‑centered design  
-- **📈 Digital Marketing & SEO** — Brand growth & visibility  
-- **📊 Data Analytics** — Smart insights for business decisions  
+- **💻 Web Development**  React, Next.js, MERN, Custom Websites  
+- **📱 Mobile App Development**  Flutter, Android, iOS  
+- **🎨 UI/UX Design**  Modern, user‑centered design  
+- **📈 Digital Marketing & SEO**  Brand growth & visibility  
+- **📊 Data Analytics**  Smart insights for business decisions  
 - **🖥️ Software & ERP Development**  
 
 ---
